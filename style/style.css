@@ -1,0 +1,48 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+@font-face {
+    font-family:"BNazanin";
+    src: local("BNazanin"),url();
+}
+body{
+    background-color:lightblue;
+}
+.container{
+    background-color: rgb(152, 28, 82);
+    width:auto;
+    height:auto;
+    
+}
+.head{
+    width:100%;
+    height:2rem;
+    background-color: blueviolet;
+}
+.p1{
+    background-image: url("");
+    width:5rem;
+    height:5rem;
+    display:;
+    border-radius: 20%;
+    background-color: burlywood;
+}
+.p2{
+    background-image: ;
+    width:5rem;
+    height:5rem;
+    display:;
+    border-radius: 20%;
+    background-color: burlywood;
+}
+.p3{
+    background-image: ;
+    width:5rem;
+    height:5rem;
+    display:;
+    border-radius: 20%;
+    background-color: burlywood;
+}
